@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cbb20a5d1250c7f499a91f98ee13d514
+timeCreated: 1521826143
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myGroove: {fileID: 24500006, guid: 6fe03b2ba9a48b548b0ddc8c08fe4aa2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

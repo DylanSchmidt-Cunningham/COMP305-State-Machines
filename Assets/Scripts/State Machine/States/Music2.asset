@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 698319500ffeb5047a3d12a9e1025dfd, type: 3}
+  m_Name: Music2
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: dd05339dc5c737447ac1142fbcf931ff, type: 2}
+  - {fileID: 11400000, guid: 94c3ca7bbb955e4489c563ce5748c63c, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 4d2a4fdf73711424f8f3a1ce1a5f9dad, type: 2}
+    trueState: {fileID: 11400000, guid: dca8863345261f34aaccc31149017acd, type: 2}
+    falseState: {fileID: 11400000, guid: d08b0d6e3f4caa843853ae8c2fb6bd75, type: 2}
+  - decision: {fileID: 11400000, guid: 7c518f48ac0ac1d44a6ed7654e6c895e, type: 2}
+    trueState: {fileID: 11400000, guid: 21cf9b3998ecd764e8dcd198a7503a16, type: 2}
+    falseState: {fileID: 11400000, guid: d08b0d6e3f4caa843853ae8c2fb6bd75, type: 2}
